@@ -1,0 +1,21 @@
+install.packages("pacman")
+install.packages("sf")        # sf (simple features); is replacing sp and spdep
+install.packages("spdep")
+install.packages("rgdal")
+install.packages("terra")     # terra is replacing raster
+install.packages("ggmap")     # quick way of getting raster maps from web
+install.packages("rgdal")
+install.packages("foreign")
+install.packages("tidyverse")
+install.packages("haven")
+install.packages("xtable")
+install.packages("stargazer")
+install.packages("ggplot2")
+install.packages("broom")
+install.packages("tictoc")
+install.packages("plyr")
+install.packages("dplyr")
+install.packages("CARBayes")
+install.packages("miceadds")
+install.packages("sandwich")
+install.packages("GWmodel")
